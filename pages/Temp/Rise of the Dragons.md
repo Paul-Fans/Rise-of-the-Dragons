@@ -1,0 +1,53 @@
+public:: true
+
+- Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
+-
+- ## Recordarle al Gub
+	- LATER [[Lacie]]
+	- LATER El sujeto
+	- LATER [[Tartarus]]
+		- LATER Escudo
+		- LATER Kit de precisión
+		- LATER Gancho.
+	- LATER Ahora los NPC tienen ultimate
+	- LATER Pila portátil
+	- LATER Regalos Santa Claus
+	- LATER Ninguno de los dos weyes que van a ser reyes se quiere poner los pantalonsitos
+	- LATER Luz guante [[Clint]] tira luz
+	- LATER Paruns sword encantada
+	- LATER Efecto [[Winters Bite]]
+	- DONE Efecto [[Gloves of Soul Catching]]
+	- DONE Flauta
+	- DONE Efecto [[Dolor Amarus]]
+-
+- [Foundry - Rise of the Dragons](http://really-nowhere.gl.at.ply.gg:16595/join)
+- ## Journal
+  id:: 685b8792-fff8-4488-82b9-efe4c725ee95
+	- [[Pendiente]]
+	- [[La cara se da mutuamente]]
+	- [[Dragon de arena]]
+	- [[Por qué me hace estas preguntas?]]
+	- [["Gawain"]]
+	- [["Charlie"]]
+	- [[Por las montañas]]
+	- [[I am my own master now]]
+	- [[Manuel dice]]
+	- [[Sábado de Rol]]
+	- [[Clint muere - La Película]]
+	- [[El regreso de Bu-Ho]]
+	- [[Ciudad Goblin y Hamburgo]]
+	- [[Amenazas de muerte]]
+	- [[Ayudando refugiados]]
+	- [[Pos-fiesta de heroes]]
+	- [[La Intensa Batalla Lunar]]
+	- [[Tarjeta nivel 8??]]
+	- [[La Muerte de Zalle Malli]]
+	- [[Vamos todos a la luna]]
+	- [[Desde el 24 de abril hasta "Vamos todos a la luna"]]
+	- [[Las fantásticas aventuras de Pedrin y sus amigos: Los inicios]]
+	- [[Desde después del 25 de enero hasta el 24 de abril]]
+	- [[Sesión 25 de enero]]
+	- [[Desde el inicio hasta antes del 25 de enero]]
+- ## Extras
+	- [[Elliot Witt - El peligro de Tijuana]]
+	-
