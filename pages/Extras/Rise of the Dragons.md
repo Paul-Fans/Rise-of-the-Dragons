@@ -8,7 +8,7 @@
 		- LATER Escudo
 		- LATER Kit de precisión
 		- LATER Gancho.
-	- LATER Ahora los ((686278f8-e151-4e58-bd18-a46a5eb06e96)) tienen ultimate
+	- LATER Ahora los ((686278f8-e151-4e58-bd18-a46a5eb06e96)) tienen [[Ultimate]]
 	- LATER Pila portátil
 	- LATER Regalos [[Papá Invierno]]
 	- LATER Ninguno de los dos weyes que van a ser reyes se quiere poner los pantalonsitos
@@ -25,9 +25,10 @@
 - ## Extras
 	- [[Elliot Witt - El peligro de Tijuana]]
 	- [[Cositas]]
-	-
 - ## NPC
   id:: 686278f8-e151-4e58-bd18-a46a5eb06e96
+- [[Papá Invierno]]
+- [[El Blanco]]
 - # Lugares
 	- [[High Ice]]
 		- [[Everfrost]]

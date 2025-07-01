@@ -1,9 +1,9 @@
-- La región de el alto hielo abarca cientos de kilometros en las vastas nieves del norte. En algun momento Icewind Dale formo parte de el hasta que este se independizo, pero los gobernantes de Everfrost jamas admitieron esta independencia.
+- La región de el alto hielo abarca cientos de kilometros en las vastas nieves del norte. En algún momento [[Icewind Dale]] formo parte de el hasta que este se independizo, pero los gobernantes de [[Everfrost]] jamas admitieron esta independencia.
 - ![Mapa de Everfrost](../assets/Maps/Everfrost.png){:height 557, :width 780}
 - ---
 - # Información General
-	- La region es controlada por 5 familias cada una encargandose de una zona: Los Jud al Oeste, los Zifel al Norte, los Cassanova al Sur, los Crawl al Este y los Magiyas la ciudad de Everfrost.
-	- La magia es muy importante para los habitantes, por ese motivo cada vez que un miembro de las 5 casas de Everfrost esta por cumplir la mayoria de edad (en años elficos) debe realizar una caseria de algun tipo de magia, esto puede ser un objeto, un hechizo, conocimiento, o una criatura incluso. La familia con el mayor tributo tiene reclamo sobre el control de Everfrost, y con el, influencia sobre toda la region.
+	- La region es controlada por 5 familias cada una encargandose de una zona: Los [[Jud]] al Oeste, los [[Zifel]] al Norte, los [[Casano]] al Sur, los [[Crawl]] al Este y los [Magiyas]([[Magiya]]) la ciudad de Everfrost.
+	- La magia es muy importante para los habitantes, por ese motivo cada vez que un miembro de las 5 casas de Everfrost esta por cumplir la mayoría de edad (en años elficos) debe realizar una casería de algún tipo de magia, esto puede ser un objeto, un hechizo, conocimiento, o una criatura incluso. La familia con el mayor tributo tiene reclamo sobre el control de Everfrost, y con el, influencia sobre toda la region.
 - ---
 - ## Lugares
 - ### Shalai
