@@ -1,0 +1,2 @@
+- Ex de la [abuela de Elliot Witt]([[Abuela de Elliot]]).
+- Le da regalos a los niños buenos.
