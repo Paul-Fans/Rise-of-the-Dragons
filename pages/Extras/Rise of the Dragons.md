@@ -1,0 +1,42 @@
+- [Foundry - Rise of the Dragons](http://really-nowhere.gl.at.ply.gg:16595/join)
+- Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
+-
+- ## Recordarle al Gub
+	- LATER [[Lacie]]
+	- LATER El sujeto
+	- LATER [[Tartarus]]
+		- LATER Escudo
+		- LATER Kit de precisión
+		- LATER Gancho.
+	- LATER Ahora los ((686278f8-e151-4e58-bd18-a46a5eb06e96)) tienen ultimate
+	- LATER Pila portátil
+	- LATER Regalos [[Papá Invierno]]
+	- LATER Ninguno de los dos weyes que van a ser reyes se quiere poner los pantalonsitos
+	- LATER Luz guante [[Clint]] tira luz
+	- LATER Paruns sword encantada
+	- LATER Efecto [[Winter's Bite]]
+	- DONE Efecto [[Gloves of Soul Catching]]
+	- DONE Flauta
+	- DONE Efecto [[Dolor Amarus]]
+-
+- ## Journal
+  id:: 685b8792-fff8-4488-82b9-efe4c725ee95
+	- [[Pendiente]]
+- ## Extras
+	- [[Elliot Witt - El peligro de Tijuana]]
+	- [[Cositas]]
+	-
+- ## NPC
+  id:: 686278f8-e151-4e58-bd18-a46a5eb06e96
+- # Lugares
+	- [[High Ice]]
+		- [[Everfrost]]
+	- [[Anauroch]]
+		- [[Tijuana]]
+	- [[Sword Coast]]
+		- [[Neverwinter]]
+		- [[Phandalin]]
+		- [[Baldur's Gate]]
+	- [[Bosque de Oneisita]]
+		- [[Base Lunar]]
+	- [[Scuttle Worth]]

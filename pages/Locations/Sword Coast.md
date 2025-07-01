@@ -1,0 +1,5 @@
+- La Costa de la Espada es la región en el oeste de Faerûn que se extendía a lo largo de la costa del Mar de las Espadas y se hacia el interior de el valle.
+- ---
+- ### Información General
+	- La Costa de la Espada es una extensa extensión de paramos, salpicada de ciudades independientes e invadida por bandas de criaturas monstruosas, que algunos veían simplemente como un lugar a través del cual tenías que viajar para llegar a un destino real y significativo. Era mucho más que eso, por supuesto, una tierra rica y vibrante con una larga historia que abarcaba algunas de las ciudades más importantes de todos los Reinos.
+	- Era considerado uno de los lugares más ásperos de Faerûn, tanto geográficamente como en virtud de su gente.
