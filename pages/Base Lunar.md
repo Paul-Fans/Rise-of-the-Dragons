@@ -1,0 +1,36 @@
+- Construida por [[Witt Industries]], como su nombre indica, es una base en la luna, con bastante tecnología y un monstruo negro muy peligroso.
+- ## Biodomo
+	- Una estructura dentro de la cual hay bastantes plantas.
+- ## Criaturas
+	- ### Stalker
+		- Acecha, y ataca a aquellos que están solos.
+	- ### Cucaracha
+		- Les gusta estar en grupo y reunir cachivaches de la instalación ([[Base Lunar]]), aparecen en [[Foundry]] como **Loot Bug**.
+	- ### El sabueso ciego
+		- Es como un perro ciego robot  con buen olfato, los sensores no pueden detectarlo, solo deja un vacío por donde pasa.
+		- Derrotamos uno.
+	- ### El sin cara
+		- Donde debería estar su cara, no hay nada. Se mueve increíblemente rápido, tan rápido como el tren de [[Tijuana]], tenebrosamente rápido para una criatura que se arrastra por el suelo. Con unos sentidos super agudos. Si pierde contacto visual vuelve con lo suyo.
+	- ### La bestia desplazante
+		- Crea hologramas de si misma.
+	- ### PT3R
+		- Voz en la luna
+	- ### Tiburon
+		- Monstruoso espécimen deforme
+	- ### Computadora
+		- Actualmente propiedad de [[Clint]]
+- ## Cosas que prometio el Gub
+	- Radiografia
+	- Panel solar
+	- Escudos de energia
+	- Trajes espaciales
+	- Soplete laser
+	- Taladro
+	- Purificador de agua
+	- Tp coorekeper
+	- Mascara de gas
+	- Jetpack
+	- Patineta voladora
+	- Orejera inteligente telecom
+	- Maniqui de prueba
+	- Hexoesqueleto
