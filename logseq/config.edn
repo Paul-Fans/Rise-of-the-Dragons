@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Rise of the Dragons"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -418,4 +418,10 @@
  ;;   - :triple-lowbar (default)
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
- :file/name-format :triple-lowbar}
+ :file/name-format :triple-lowbar
+ :feature/enable-flashcards? false
+ :feature/enable-whiteboards? false
+ :publishing/all-pages-public? true
+ :ui/show-brackets? false
+ :graph/settings {:journal? true
+ :builtin-pages? true}}

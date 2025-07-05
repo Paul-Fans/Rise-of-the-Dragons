@@ -1,0 +1,24 @@
+- La ciudad fue fundada por el héroe [[Frost]], para su pueblo sin hogar hace milenios. La ciudad actualmente es gobernada por la familia Magiya, quienes han tenido el control desde que se tiene registro.
+- Un aura mágica puede sentirse por toda la ciudad. La ciudad es iluminada por cristales mágicos que se encienden durante la noche.
+- ---
+- ## Lugares
+- ### Elfsong Tavern
+	- Una popular taberna con muchos clientes y personal. El dueño les ha proporcionado una buena habitación a cambio de haberse encargado de su problema de ratas.
+- ### Nine Tails
+	- Una tienda de pieles y mascotas exóticas.
+- ### Devil's Fee
+	- El curioso despacho de un excéntrico abogado elfico.
+	- El dueño, [[Helsik]], les hizo perder su tiempo mientras buscaban ayuda con su problema de los cambiaformas.
+	- Lugar donde [Vittorio]([[Vittorio Casano]]) encontró a [Marinerito]([[Marin Erito]])
+- ### Ramazith Tower
+	- Una torre tan alta como las nubes mismas. Construida hace cientos de años por el mago [[Ramazith Flamesinger]], como base de operaciones para [[Guardians of the Weave]]. Desde entonces la torre no ha dejado de ser expandida hacia los cielos como muestra de la ingeniería elfica.
+	- [[Lorroakan]] se convirtió en el guardian de la torre después de que los demás miembros del consejo perecieran.
+- ### Platinum Plaza
+	- Una galería de todo tipo de arte. Música, pinturas, esculturas, poesía, todo tipo de arte puede ser encontrado aquí, ademas de los insumos necesarios para crear estas obras.
+	- Ganaron un amplificador en una apuesta con uno de los encargados.
+- ### Stormshore Tabernacle
+	- Un lugar de adoración a multiples deidades. Un altar a [[Selune]], [[Mystra]], [[Tyr]], [[Lathander]] y un altar general son visibles.
+- ### Bonecloack Aphotecary
+	- Una tienda de pociones y otros elementos alquímicos. La doctora, [[Derryth Bonecloak]], le hizo un diagnostico a Pedrin revelando los efectos negativos de su báculo.
+- ### The Frozen Castle
+	- El castillo helado, el corazón de Everfrost. La primera construcción hecha en la región, el lugar ha pasado de generación en generación desde la fundación de la ciudad.

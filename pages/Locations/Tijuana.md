@@ -1,0 +1,35 @@
+- Entre dos cordilleras del desierto de Anauroch se encuentra una ciudad sustentada por un río y la audacia de sus habitantes. Las extremas condiciones del desierto, combinado a los gusanos de arena que rondan mas al norte hacen que la existencia de esta ciudad desafié toda lógica.
+- ![Mapa de Tijuana](../assets/Maps/Tijuana.png)
+- ---
+- # General
+	- Tiene un gobierno democrático con reelección. Posee un ferrocarril muy veloz que atraviesa el desierto con gran velocidad, lo que le da un gran valor comercial para las regiones vecinas. Su fuente de energía era una extraída de humanoides vivos en un laboratorio subterráneo escondido del mundo. El ingeniero que manejaba este lugar, Caleb, fue asesinado por la party.
+	  El presidente fue personificar por Vector quien abandono el lugar cuando concreto su parte del plan. El jefe de la policía lo reemplazó temporalmente.
+- ---
+- ## Lugares
+- ### Maytai
+	- Una galería de objetos y artefactos mágicos o antiguos. Su propietario es un [viejo tabaxi]([[El Coleccionista]]).
+- ### El Árbol
+	- Un bar que en algún momento atrajo a bastante clientela, sin embargo ahora se encuentra en ruinas. Le pertenece a [[Elliot Witt]].
+- ### The Red Fortress
+	- El castillo del Lord de [[Tijuana]]. Quedo en ruinas después de que una bomba explotara en un intento de detener el ritual que invoco a [[Tiamat]].
+- ### [[Aunt Mary]] Elixirs
+	- Una tienda de pociones. Alguien rompió la ventana de este sitio para robar una poción de curación. [[Jayden Bright]] trabajaba aquí.
+- ### Iron Forge
+	- Una forja. Su propietario es [[Andre]], un enano de barba pelirroja, junto a su asistente [[Yancan]], una dragonborn de escamas color purpura.
+- ### El Laboratorio
+	- Un laboratorio escondido debajo de un taller de herramientas. La energía de la ciudad provenía de humanoides usados como baterías aquí abajo. El antiguo propietario, [[Caleb]], fue asesinado por la party. El nuevo dueño es [[Clint]] ~~(El verdadero dueño es [[Sterling Robotics]])~~.
+- ### Hamburguesas [[Hamburgo]]
+	- Las hamburguesas mas populares de la región. Algunas personas matarían por una de estas hamburguesas.
+- ### Daisy Dinner
+	- Un restaurante el cual solía ser un popular bar. Su propietario es [[Jackson Williams]], el humano padre adoptivo de [[Chloe]].
+- ### Dwarven Fireworks
+	- Una fabrica de explosivos improvisados, escondida bajo la fachada de una tienda de fuegos artificiales. Los propietarios son [[Wulbren]] y [[Barcus]], enanos de [[Finlandia]], el pueblo del que [[Clint]] viene.
+- ### Estación de policía
+- ### Casa de [Zilinski]([[Pablo Zilinski]])
+	- Vive con su pareja [[Sol]]
+- ### Las afueras
+	- Zona pobre, muchos tabaxis y delincuencia
+- ### Dojo
+	- [[Sildar Hallwinter]]
+- ### Hospital
+	- Después de la salida poco forzada de [[Dr. House]] por parte del consejo de medicos, se llenó de medicos que vienen de parted de [[Zósimo De Malli|Zósimo]], así que está principalmente controlado por [[Sterling Robotics]].
