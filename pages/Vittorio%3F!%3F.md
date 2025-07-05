@@ -1,0 +1,1 @@
+- ![El guapo](../assets/Extras/Vittorio?!?.png)

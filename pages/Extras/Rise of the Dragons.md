@@ -2,19 +2,20 @@
 - Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
 -
 - ## Recordarle al Gub
-	- LATER [[Lacie]]
-	- LATER El sujeto
-	- LATER [[Tartarus]]
-		- LATER Escudo
-		- LATER Kit de precisión
-		- LATER Gancho.
-	- LATER Ahora los ((686278f8-e151-4e58-bd18-a46a5eb06e96)) tienen [[Ultimate]]
-	- LATER Pila portátil
-	- LATER Regalos [[Papá Invierno]]
-	- LATER Ninguno de los dos weyes que van a ser reyes se quiere poner los pantalonsitos
-	- LATER Luz guante [[Clint]] tira luz
-	- LATER Paruns sword encantada
+	- LATER *Subway Surfers* **ALIENS**
+	- LATER Anillo de Leon
 	- LATER Efecto [[Winter's Bite]]
+	- LATER [[Lacie]]
+	- LATER Regalos [[Papá Invierno]]
+	- LATER Pila portátil
+	- LATER [Paruns sword encantada]([[Sword of the Paruns]])
+	- DONE El sujeto
+	- DONE [[Tartarus]]
+		- DONE Escudo
+		- DONE Kit de precisión
+		- DONE Gancho.
+	- DONE Ahora los ((686278f8-e151-4e58-bd18-a46a5eb06e96)) tienen [[Ultimate]]
+	- DONE [Luz]([[Luz Sunniva]]) guante [[Clint]] tira luz
 	- DONE Efecto [[Gloves of Soul Catching]]
 	- DONE Flauta
 	- DONE Efecto [[Dolor Amarus]]
@@ -25,6 +26,7 @@
 - ## Extras
 	- [[Elliot Witt - El peligro de Tijuana]]
 	- [[Cositas]]
+	- [[Vittorio?!?]]
 - ## NPC
   id:: 686278f8-e151-4e58-bd18-a46a5eb06e96
 - [[Papá Invierno]]
@@ -41,3 +43,5 @@
 	- [[Bosque de Oneisita]]
 		- [[Base Lunar]]
 	- [[Scuttle Worth]]
+- # Facciones
+	- [[Culto Dragon]]
