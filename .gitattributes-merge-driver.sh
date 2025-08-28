@@ -1,16 +1,18 @@
 #!/usr/bin/env bash
-# Arguments: %O %A %B %L
+# Arguments passed by Git: %O %A %B %L
 BASE="$1"
 CURRENT="$2"
 OTHER="$3"
 
-BRANCH_CURRENT=$(git rev-parse --abbrev-ref HEAD)
-BRANCH_OTHER=${GIT_MERGE_BRANCH:-"other-branch"}
+# Get commit SHAs
+SHA_CURRENT=$(git log -1 --format="%h" -- "$CURRENT" 2>/dev/null || echo "unknown")
+SHA_OTHER=$(git log -1 --format="%h" -- "$OTHER" 2>/dev/null || echo "unknown")
 
+# Merge content
 {
-    echo "### Notes from branch: $BRANCH_CURRENT"
+    echo "### Notes from commit: $SHA_CURRENT"
     cat "$CURRENT"
     echo
-    echo "### Notes from branch: $BRANCH_OTHER"
+    echo "### Notes from commit: $SHA_OTHER"
     cat "$OTHER"
 } > "$CURRENT"
