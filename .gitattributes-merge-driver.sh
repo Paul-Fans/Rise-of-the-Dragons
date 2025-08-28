@@ -4,15 +4,13 @@ BASE="$1"
 CURRENT="$2"
 OTHER="$3"
 
-# Get commit author names from environment variables
-AUTHOR_CURRENT="$(git log -1 --pretty=format:'%an' -- $CURRENT)"
-AUTHOR_OTHER="$(git log -1 --pretty=format:'%an' -- $OTHER)"
+BRANCH_CURRENT=$(git rev-parse --abbrev-ref HEAD)
+BRANCH_OTHER=${GIT_MERGE_BRANCH:-"other-branch"}
 
-# Output merged content
 {
-    echo "### Notes from $AUTHOR_CURRENT"
+    echo "### Notes from branch: $BRANCH_CURRENT"
     cat "$CURRENT"
     echo
-    echo "### Notes from $AUTHOR_OTHER"
+    echo "### Notes from branch: $BRANCH_OTHER"
     cat "$OTHER"
 } > "$CURRENT"
