@@ -1,4 +1,3 @@
-### Notes from 
-
-### Notes from 
-- Esta es la 1
+### Notes from
+- ### Notes from
+- Esta es la 1.
