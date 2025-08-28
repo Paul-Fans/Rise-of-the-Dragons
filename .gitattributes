@@ -1,1 +1,1 @@
-*.md merge=union
+*.md merge=with-names
