@@ -1,0 +1,3 @@
+[merge "with-names"]
+    name = custom merge that appends both sides with author name
+    driver = bash .gitattributes-merge-driver.sh %O %A %B %L
