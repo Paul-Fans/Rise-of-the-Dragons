@@ -2,6 +2,9 @@
 - Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
 -
 - ## Recordarle al Gub
+	- LATER Regalito para [[Tartarus]]
+	- LATER [[Gawain]] en el [[Dark world]]
+	- LATER Libros
 	- LATER [Lord Brandon]([[Brandon Leonard]]) Donde caemos gente (pantalla de carga giro points darle su nueva habilidad vittorio casano)
 	- LATER *Subway Surfers* **ALIENS**
 	- LATER Anillo de Leon
