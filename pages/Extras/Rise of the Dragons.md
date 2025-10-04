@@ -24,7 +24,14 @@
 	- DONE Flauta
 	- DONE Efecto [[Dolor Amarus]]
 -
-- ## Party Tasks
+- ## Party Tasks and more
+	- LATER Anillos
+		- **Anillo** [[Baldur's Gate]]
+		- **Anillo** Desierto arriba de [[Tijuana]]
+	- Matar [[Tiamat]]
+	- Regalos [[Papá invierno]]
+	- **Diamante** para [[Blue]], la **owlin** amiga de la (novia de) [[Chloe]] [[Pedrin]]
+	-
 	-
 -
 - ## Custom rules
