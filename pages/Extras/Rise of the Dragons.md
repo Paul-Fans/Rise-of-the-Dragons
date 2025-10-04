@@ -24,12 +24,15 @@
 	- DONE Flauta
 	- DONE Efecto [[Dolor Amarus]]
 -
-- ## Custom rules
+- ## Party Tasks
 	-
 -
 - ## Custom rules
 	- Necesitas **Diamante** para revivir a personas.
 		- [[Clint]] tiene el **feat** *crafter*, con ese puede craftear **Diamantes** con **300 gp**.
+	- Regla maquiavelica
+		- Cuando estás derrivado puedes sacrificar una tirada de salvación de forma permanente para poder levantarte sin necesidad de tirar.
+	-
 -
 - ## Extras
 	- [[Elliot Witt - El peligro de Tijuana]]
