@@ -18,23 +18,28 @@
 		- DONE Escudo
 		- DONE Kit de precisión
 		- DONE Gancho.
-	- DONE Ahora los ((686278f8-e151-4e58-bd18-a46a5eb06e96)) tienen [[Ultimate]]
+	- DONE Ahora los **NPC** tienen [[Ultimate]]
 	- DONE [Luz]([[Luz Sunniva]]) guante [[Clint]] tira luz
 	- DONE Efecto [[Gloves of Soul Catching]]
 	- DONE Flauta
 	- DONE Efecto [[Dolor Amarus]]
 -
-- ## Journal
-  id:: 685b8792-fff8-4488-82b9-efe4c725ee95
-	- [[Pendiente]]
+- ## Custom rules
+	-
+-
+- ## Custom rules
+	- Necesitas **Diamante** para revivir a personas.
+		- [[Clint]] tiene el **feat** *crafter*, con ese puede craftear **Diamantes** con **300 gp**.
+-
 - ## Extras
 	- [[Elliot Witt - El peligro de Tijuana]]
 	- [[Cositas]]
 	- [[Vittorio?!?]]
+-
 - ## NPC
-  id:: 686278f8-e151-4e58-bd18-a46a5eb06e96
 - [[Papá Invierno]]
 - [[El Blanco]]
+-
 - # Lugares
 	- [[High Ice]]
 		- [[Everfrost]]
@@ -47,5 +52,6 @@
 	- [[Bosque de Oneisita]]
 		- [[Base Lunar]]
 	- [[Scuttle Worth]]
+	-
 - # Facciones
 	- [[Culto Dragon]]
