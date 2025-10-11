@@ -1,0 +1,1 @@
+- El prodigio goblin de piel verde y sombrero grande. Inteligente y engreído, este pequeñín esta listo para enorgullecer a su padre adoptivo.

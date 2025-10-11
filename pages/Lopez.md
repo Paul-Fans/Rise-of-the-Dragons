@@ -1,2 +1,1 @@
-- El resentido boxeador humano de piel morena y
--
+- El resentido boxeador humano de piel bronceada. Valiente y temerario, sus puños golpean con la fuerza de diez osos.
