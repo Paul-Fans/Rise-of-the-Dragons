@@ -1,0 +1,1 @@
+- Jayden es una tabaxi de pelaje calicó y ojos naranja resplandeciente. Alegre e jovial, con su guitarra y voz evoca todo tipo de encantamientos y emociones.

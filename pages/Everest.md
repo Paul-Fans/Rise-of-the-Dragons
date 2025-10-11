@@ -1,1 +1,1 @@
-- Everest es una Tabaxi de pelaje blanco con una oreja negra y ojos color verde brillante. Sarcástica, pesimista y egoísta, su actitud descarada trae un aura hostil a cualquier grupo que tenga la desgracia de estar cerca de ella.
+- Everest es una tabaxi de pelaje blanco con una oreja negra y ojos color verde brillante. Sarcástica, pesimista y egoísta, su actitud descarada trae un aura hostil a cualquier grupo que tenga la desgracia de estar cerca de ella.
