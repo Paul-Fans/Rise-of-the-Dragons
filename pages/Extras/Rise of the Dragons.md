@@ -2,6 +2,7 @@
 - Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
 -
 - ## Recordarle al Gub
+	- LATER [[Gawain]] equipamiento 3.
 	- LATER Regalito para [[Tartarus]]
 	- LATER [[Gawain]] en el [[Dark world]]
 	- LATER Libros
@@ -39,6 +40,8 @@
 		- [[Clint]] tiene el **feat** *crafter*, con ese puede craftear **Diamantes** con **300 gp**.
 	- Regla maquiavelica
 		- Cuando estás derrivado puedes sacrificar una tirada de salvación de forma permanente para poder levantarte sin necesidad de tirar.
+	- Players that drop to 0HP are Downed instead of being knocked Uncounscious. A Down PLAYER is Slowed and can't stand up.
+		- But, each time a PLAYER is Revived their Action is spend. The PLAYER can choose to gain one level of Exahustion instead.
 	-
 -
 - ## Extras
