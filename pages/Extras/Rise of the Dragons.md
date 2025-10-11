@@ -39,14 +39,22 @@
 	- Restaurar el [bar]([[El Árbol]]) de [[Elliot Witt]]
 	- Restaurar la mente y cuerpo de la [[Abuela de Elliot]]
 	- Rescatar al padre de [[Jayden]] (El sabe donde está el anillo)
-	- Ir a recoger a [[Sam]]
 	- Acabar con [[Silver]]
 	- Abrir los regalos [[Papá invierno]]
 	- **Diamante** para [[Blue]], la **owlin** amiga de la [[Chloe]] (novia de [[Pedrin]])
 	- Arreglar a [[Jayden]]
-	- Olvidado
+	- Arrglar a [[Everest]]
+	- Liberar [[Strixhaven]]
+	- #### Personales o olvidadas
+	  background-color:: red
 		- Revivir a [[Nova]]
 		- Conseguir un laboratorio para [[Clint]]
+		- Recuperar alma de [[Clint]]
+		- Revivir a [[Will]]
+		- Revertir la maldición de [[Oneisita]]
+		- Ir a recoger a [[Sam]]
+		- Hacer una gran empresa de factura y venta de camas de agua
+		- Llevar [[Hamburguesas Hamburgo]] a [[Everfrost]]
 	-
 	- Matar [[Tiamat]]
 	- Regalos [[Papá invierno]]
