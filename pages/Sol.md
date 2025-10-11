@@ -1,0 +1,1 @@
+- El enigmático tabaxi calicó. Su vasto conocimiento y su lengua persuasiva lo convierten en un aliado poderoso y un enemigo aterrador.
