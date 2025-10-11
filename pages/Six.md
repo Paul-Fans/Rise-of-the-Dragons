@@ -1,1 +1,1 @@
-- El monstruo de mil rostros. Perdida en un mundo nuevo y desconocido lejos de su hogar.
+- El monstruo de mil rostros. Perdida en un mundo nuevo y desconocido lejos de su hogar, un fenómeno que no pertenece a este mundo.
