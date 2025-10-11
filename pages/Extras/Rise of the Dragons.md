@@ -31,10 +31,22 @@
 	- LATER Anillos
 		- **Anillo** [[Baldur's Gate]]
 		- **Anillo** Desierto arriba de [[Tijuana]]
-	- Matar [[Tiamat]]
-	- Regalos [[Papá invierno]]
-	- **Diamante** para [[Blue]], la **owlin** amiga de la (novia de) [[Chloe]] [[Pedrin]]
-	-
+	- Fragmentos
+		- Fragmento de [[Tartarus]]
+		- Fragmento de [[Luz]]
+	- Investigar el caso de [[Viktor Magiya]]
+	- Matar a [[Tiamat]]
+	- Restaurar el [bar]([[El Árbol]]) de [[Elliot Witt]]
+	- Restaurar la mente y cuerpo de la [[Abuela de Elliot]]
+	- Rescatar al padre de [[Jayden]] (El sabe donde está el anillo)
+	- Ir a recoger a [[Sam]]
+	- Acabar con [[Silver]]
+	- Abrir los regalos [[Papá invierno]]
+	- **Diamante** para [[Blue]], la **owlin** amiga de la [[Chloe]] (novia de [[Pedrin]])
+	- Arreglar a [[Jayden]]
+	- Olvidado
+		- Revivir a [[Nova]]
+		- Conseguir un laboratorio para [[Clint]]
 	-
 -
 - ## Custom rules
