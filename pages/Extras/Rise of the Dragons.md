@@ -48,6 +48,10 @@
 		- Revivir a [[Nova]]
 		- Conseguir un laboratorio para [[Clint]]
 	-
+	- Matar [[Tiamat]]
+	- Regalos [[Papá invierno]]
+	- **Diamante** para [[Blue]], la **owlin** amiga de la (novia de) [[Chloe]] [[Pedrin]]
+	- Reencuentro con el querido [[Elliot Witt]] y avance de historia
 -
 - ## Custom rules
 	- Necesitas **Diamante** para revivir a personas.
