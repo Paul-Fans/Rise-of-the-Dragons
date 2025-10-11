@@ -52,9 +52,13 @@
 		- Recuperar alma de [[Clint]]
 		- Revivir a [[Will]]
 		- Revertir la maldición de [[Oneisita]]
-		- Ir a recoger a [[Sam]]
+		- Ir a recoger a [[Sam]] y [[Marin Erito]]
 		- Hacer una gran empresa de factura y venta de camas de agua
 		- Llevar [[Hamburguesas Hamburgo]] a [[Everfrost]]
+		- Llevar a [[Six]] a su casa
+		- Llevar a [[Squeak]] a la **luna**
+		- Hacer que [[Syeriy]] recupere la capacidad de portar [[Winter's Bite]]
+		- Que [[Clint]] cree otra **bomba atomica**
 	-
 	- Matar [[Tiamat]]
 	- Regalos [[Papá invierno]]
