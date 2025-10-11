@@ -1,0 +1,1 @@
+- Execute creatures that you reduce to 7 hit points.

@@ -2,6 +2,8 @@
 - Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
 -
 - ## Recordarle al Gub
+	- LATER Macarrones, Termo de pociones, Cama de agua, Dehya
+	- LATER [[Blessing of the Anchor Dragon]]
 	- LATER [[Gawain]] equipamiento 3.
 	- LATER Regalito para [[Tartarus]]
 	- LATER [[Gawain]] en el [[Dark world]]
