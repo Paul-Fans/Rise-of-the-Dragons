@@ -1,1 +1,1 @@
-- Una tabaxi color calicó y ojos azules como fuego. La protectora madre de Jayden y una dedicada agente de policía, mano derecha de [[Pablo Zilinski]].
+- La preocupada tabaxi color calicó y ojos azules como fuego. Madre de Jayden y una dedicada agente de policía, asistente de [[Pablo Zilinski]].

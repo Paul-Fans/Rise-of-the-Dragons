@@ -1,0 +1,1 @@
+- El rebelde tabaxi cubierto de cicatrices. La responsabilidad de cuidar de los tabaxi de [[Farclan]] quedo en sus hombros después de que [[Tiger]] muriera.

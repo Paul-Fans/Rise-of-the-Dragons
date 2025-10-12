@@ -12,7 +12,7 @@
 	- Un bar que en algún momento atrajo a bastante clientela, sin embargo ahora se encuentra en ruinas. Le pertenece a [[Elliot Witt]].
 - ### The Red Fortress
 	- El castillo del Lord de [[Tijuana]]. Quedo en ruinas después de que una bomba explotara en un intento de detener el ritual que invoco a [[Tiamat]].
-- ### [[Aunt Mary]] Elixirs
+- ### [[Elixires Tia Mary]] Elixirs
 	- Una tienda de pociones. Alguien rompió la ventana de este sitio para robar una poción de curación. [[Jayden Bright]] trabajaba aquí.
 - ### Iron Forge
 	- Una forja. Su propietario es [[Andre]], un enano de barba pelirroja, junto a su asistente [[Yancan]], una dragonborn de escamas color purpura.

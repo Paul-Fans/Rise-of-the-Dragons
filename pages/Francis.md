@@ -1,0 +1,1 @@
+- Un alto elfo de ojos azules. El hijo de [[Elandor Casano]], un inútil y vergüenza de la familia.
