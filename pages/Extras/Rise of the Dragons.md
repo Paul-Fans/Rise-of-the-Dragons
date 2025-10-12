@@ -39,11 +39,11 @@
 	- Matar a [[Tiamat]]
 	- Restaurar el [bar]([[El Árbol]]) de [[Elliot Witt]]
 	- Restaurar la mente y cuerpo de la [[Abuela de Elliot]]
-	- Rescatar al padre de [[Jayden]] (El sabe donde está el anillo)
+	- Rescatar al padre de [[Jayden Bright]] (El sabe donde está el anillo)
 	- Acabar con [[Silver]]
 	- Abrir los regalos [[Papá invierno]]
 	- **Diamante** para [[Blue]], la **owlin** amiga de la [[Chloe]] (novia de [[Pedrin]])
-	- Arreglar a [[Jayden]]
+	- Arreglar a [[Jayden Bright]]
 	- Arrglar a [[Everest]]
 	- Liberar [[Strixhaven]]
 	- #### Personales o olvidadas
