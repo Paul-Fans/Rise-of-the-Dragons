@@ -1,2 +1,3 @@
+alias:: [[Jayden]]
+
 - La ingenua tabaxi de pelaje calicó con manchas y ojos naranja resplandeciente. Alegre y jovial, con su guitarra y voz evoca todo tipo de encantamientos y emociones.
-- alias:: [[Jayden]]
