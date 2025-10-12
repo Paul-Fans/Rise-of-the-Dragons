@@ -1,0 +1,1 @@
+- Un tabaxi de pelaje marrón y sombrero vaquero. El líder de la pandilla de tabaxi que había en [[Tijuana]] antes de la destrucción de Everfrost.
