@@ -1,0 +1,1 @@
+- Un cadete, probablemente, de la armada de [[Cormyr]].

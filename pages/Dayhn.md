@@ -1,0 +1,1 @@
+- La entusiasta kobold de escamas negras y brillante armadura.

@@ -1,0 +1,1 @@
+- El inventor a cargo del laboratorio de [[Tijuana]].

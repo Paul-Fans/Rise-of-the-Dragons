@@ -25,7 +25,7 @@
 - ### Dwarven Fireworks
 	- Una fabrica de explosivos improvisados, escondida bajo la fachada de una tienda de fuegos artificiales. Los propietarios son [[Wulbren]] y [[Barcus]], enanos de [[Finlandia]], el pueblo del que [[Clint]] viene.
 - ### Estación de policía
-- ### Casa de [Zilinski]([[Pablo Zilinski]])
+- ### Casa de [Zilinski]([[Pablo Zielinski]])
 	- Vive con su pareja [[Sol]]
 - ### Las afueras
 	- Zona pobre, muchos tabaxis y delincuencia

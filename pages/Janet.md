@@ -1,1 +1,1 @@
-- La preocupada tabaxi color calicó y ojos azules como fuego. Madre de Jayden y una dedicada agente de policía, asistente de [[Pablo Zilinski]].
+- La preocupada tabaxi color calicó y ojos azules como fuego. Madre de Jayden y una dedicada agente de policía, asistente de [[Pablo Zielinski]].
