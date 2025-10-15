@@ -3,21 +3,21 @@
 - Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
 -
 - ## Recordarle al Gub
-	- LATER Bardo
+	- LATER BARDO
 	- LATER Macarrones, Termo de pociones, Cama de agua, Dehya
 	- LATER [[Blessing of the Anchor Dragon]]
 	- LATER [[Gawain]] equipamiento 3.
 	- LATER Regalito para [[Tartarus]]
-	- LATER [[Gawain]] en el [[Dark world]]
+	- DONE [[Gawain]] en el [[Dark world]]
 	- LATER Libros
 	- LATER [Lord Brandon]([[Brandon Leonard]]) Donde caemos gente (pantalla de carga giro points darle su nueva habilidad vittorio casano)
-	- LATER *Subway Surfers* **ALIENS**
-	- LATER Anillo de Leon
-	- LATER Efecto [[Winter's Bite]]
+	- DONE *Subway Surfers* **ALIENS**
+	- DONE Anillo de Leon
+	- DONE Efecto [[Winter's Bite]]
 	- LATER [[Lacie]]
 	- LATER Regalos [[Papá Invierno]]
-	- LATER Pila portátil
-	- LATER [Paruns sword encantada]([[Sword of the Paruns]])
+	- DONE Pila portátil
+	- DONE [Paruns sword encantada]([[Sword of the Paruns]])
 	- DONE El sujeto
 	- DONE [[Tartarus]]
 		- DONE Escudo
@@ -74,7 +74,6 @@
 - ## Extras
 	- [[Elliot Witt - El peligro de Tijuana]]
 	- [[Cositas]]
-	- [[Vittorio?!?]]
 -
 - ## NPC
 - [[Papá Invierno]]

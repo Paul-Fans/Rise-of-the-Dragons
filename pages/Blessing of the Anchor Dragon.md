@@ -1,1 +1,1 @@
-- Execute creatures that you reduce to 7 hit points.
+- Get a +1 to d20 rolls for each creature with this blessing that is within 30ft of you.
