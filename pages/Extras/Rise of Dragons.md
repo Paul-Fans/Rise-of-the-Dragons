@@ -1,4 +1,5 @@
 - [Foundry - Rise of the Dragons](http://really-nowhere.gl.at.ply.gg:16595/join)
+  title:: Rise of Dragons
 - Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
 -
 - ## Recordarle al Gub
@@ -42,7 +43,6 @@
 	- Rescatar al padre de [[Jayden Bright]] (El sabe donde está el anillo)
 	- Acabar con [[Silver]]
 	- Abrir los regalos [[Papá invierno]]
-	- **Diamante** para [[Blue]], la **owlin** amiga de la [[Chloe]] (novia de [[Pedrin]])
 	- Arreglar a [[Jayden Bright]]
 	- Arrglar a [[Everest]]
 	- Liberar [[Strixhaven]]

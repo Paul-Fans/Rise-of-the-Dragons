@@ -1,1 +1,1 @@
-- El inventor a cargo del laboratorio de [[Tijuana]]. De algún modo logro cargar parte de su conciencia a una maquin
+- El inventor a cargo del laboratorio de [[Tijuana]]. De algún modo logro cargar parte de su conciencia a una maquina antes de morir.

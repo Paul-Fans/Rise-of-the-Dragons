@@ -1,0 +1,1 @@
+- La extraña maga de cabello anaranjado. En el poco tiempo que la han conocido siempre ha estado brincando de un lado a otro inmiscuida en sus propios asuntos.
