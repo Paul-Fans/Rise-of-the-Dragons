@@ -1,0 +1,2 @@
+- El fuego.
+- El remanente de lo que solía ser una persona.

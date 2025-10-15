@@ -1,0 +1,1 @@
+- La dragona de escamas verdes, anteriormente una elfo con cabello de este mismo color.
