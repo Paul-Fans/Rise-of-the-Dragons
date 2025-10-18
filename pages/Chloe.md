@@ -1,0 +1,2 @@
+- La peligrosa kobold de escamas azules. Puede que sea pequeña pero lo compensa con su ingenio.
+-
