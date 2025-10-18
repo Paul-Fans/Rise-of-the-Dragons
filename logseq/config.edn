@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["rise of dragons" "Rise of the Dragons"]
+ :favorites []
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -423,7 +423,5 @@
  :feature/enable-whiteboards? false
  :publishing/all-pages-public? true
  :ui/show-brackets? false
- :graph/settings {:journal? false
- :builtin-pages? false
- :excluded-pages? false
- :orphan-pages? true}}
+ :graph/settings {:journal? true
+ :builtin-pages? true}}
