@@ -32,4 +32,4 @@
 - ### Dojo
 	- [[Sildar Hallwinter]]
 - ### Hospital
-	- Después de la salida poco forzada de [[Dr. House]] por parte del consejo de medicos, se llenó de medicos que vienen de parted de [[Zósimo De Malli|Zósimo]], así que está principalmente controlado por [[Sterling Robotics]].
+	- Después de la salida poco forzada de [[Gregory House]] por parte del consejo de medicos, se llenó de medicos que vienen de parted de [[Zósimo De Malli|Zósimo]], así que está principalmente controlado por [[Sterling Robotics]].
