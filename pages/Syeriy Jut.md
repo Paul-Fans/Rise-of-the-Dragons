@@ -1,4 +1,4 @@
-alias:: [[Syeriy]]
+alias:: [[Syeriy]], [[Syeri]]
 
 - ### Misiones Personales
 	-
