@@ -1,4 +1,5 @@
 # Tituto
+template:: Notas
 - **Ubicación**
 - [[Vittorio]], [[Clint]], [[Syeriy]], [[Tartarus]], [[Calstone]]
   background-color:: red
