@@ -3,7 +3,7 @@ template:: Notas
 template-including-parent:: false
 	- # Titulo
 	- **Ubicación**
-	- [[Vittorio]], [[Clint]], [[Syeriy]], [[Tartarus]], [[Calstone]]
+	- [[Vittorio]], [[Clint]], [[Syeriy]], [[Tartarus]], [[Calstone Light]]
 	  background-color:: red
 	- [[Six]], [[Wall-E]], [[Luz]], [[Everest]], [[Pedrín]]
 	  background-color:: blue
