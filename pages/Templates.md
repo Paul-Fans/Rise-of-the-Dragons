@@ -8,7 +8,7 @@ template-including-parent:: false
 	- [[Six]], [[Wall-E]], [[Luz]], [[Everest]], [[Pedrín]]
 	  background-color:: blue
 	- ## subtitulo
-	- ### Eis
+	- ### [[Eis]]
 	  background-color:: pink
 		-
 	- ### [[joge]]:
