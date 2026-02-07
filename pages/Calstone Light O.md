@@ -1,1 +1,1 @@
-alias:: Calstone, Light, Castore, O
+alias:: Calstone, Light, Castore, O, Calstone Light
