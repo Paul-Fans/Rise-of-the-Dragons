@@ -11,12 +11,12 @@ template-including-parent:: false
 	- ### [[Eis]]
 	  background-color:: pink
 		-
-	- ### [[joge]]:
+	- ### [[joge]]
 	  background-color:: purple
 		-
 	- ### Oneisen
 	  background-color:: green
 		-
-	- ### Patiño:
+	- ### Patiño
 	  background-color:: blue
 		-
