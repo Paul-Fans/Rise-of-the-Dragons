@@ -3,21 +3,21 @@
 - Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
 -
 - ## Recordarle al Gub
-	- LATER Mi sacapuntas **¡¡NOOOooo!!**
-	- LATER **Patineta Voladora** OVERCHARGE 1 hora de vuelo con control remoto
+	- DONE Mi sacapuntas **¡¡NOOOooo!!**
+	- DONE **Patineta Voladora** OVERCHARGE 1 hora de vuelo con control remoto
 	- DONE BARDO
-	- LATER Macarrones, Termo de pociones, Cama de agua, Dehya
-	- LATER [[Blessing of the Anchor Dragon]]
-	- LATER [[Gawain]] equipamiento 3.
-	- LATER Regalito para [[Tartarus]]
+	- DONE Macarrones, Termo de pociones, Cama de agua, Dehya
+	- DONE [[Blessing of the Anchor Dragon]]
+	- DONE [[Gawain]] equipamiento 3.
+	- DONE Regalito para [[Tartarus]]
 	- DONE [[Gawain]] en el [[Dark world]]
-	- LATER Libros
-	- LATER [Lord Brandon]([[Brandon Leonard]]) Donde caemos gente (pantalla de carga giro points darle su nueva habilidad vittorio casano)
+	- DONE Libros
+	- DONE [Lord Brandon]([[Brandon Leonard]]) Donde caemos gente (pantalla de carga giro points darle su nueva habilidad vittorio casano)
 	- DONE *Subway Surfers* **ALIENS**
 	- DONE Anillo de Leon
 	- DONE Efecto [[Winter's Bite]]
-	- LATER [[Lacie]]
-	- LATER Regalos [[Papá Invierno]]
+	- DONE [[Lacie]]
+	- DONE Regalos [[Papá Invierno]]
 	- DONE Pila portátil
 	- DONE [Paruns sword encantada]([[Sword of the Paruns]])
 	- DONE El sujeto
