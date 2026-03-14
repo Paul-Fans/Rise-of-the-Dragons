@@ -5,7 +5,7 @@
 - ## Recordarle al Gub
 	- LATER Mi sacapuntas **¡¡NOOOooo!!**
 	- LATER **Patineta Voladora** OVERCHARGE 1 hora de vuelo con control remoto
-	- LATER BARDO
+	- DONE BARDO
 	- LATER Macarrones, Termo de pociones, Cama de agua, Dehya
 	- LATER [[Blessing of the Anchor Dragon]]
 	- LATER [[Gawain]] equipamiento 3.
